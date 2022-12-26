@@ -4,7 +4,7 @@ Install Exchange Server prerequisites before you start to install Exchange Serve
 
 Install Exchange Server prerequisites
 
-<h4 align="center"> <a href="https://github.com/MrAAGO/Exchange-server-2019/blob/main/powerhell.ps1>Step 1 Run PowerShell as administrator. Run the following command to install the required Windows components. </a> </h4>
+<h4 align="center"> <a href="https://github.com/MrAAGO/Exchange-server-2019/blob/main/powerhell.ps1> Step 1 Run PowerShell as administrator. Run the following command to install the required Windows components. </a> </h4>
 
 <h4 align="center"> <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework">Step 2 Install .NET Framework 4.8 (restart required).. </a> </h4>
 
