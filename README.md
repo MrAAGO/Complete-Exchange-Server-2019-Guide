@@ -1,6 +1,6 @@
-# Exchange-server-2019
+# Exchange-server-2019 Installation and configuration.
 
-Install Exchange Server prerequisites before you start to install Exchange Server. Ensure you have an operating system that supports the Exchange Server version that you want to install. In this article, we will look at how to install Exchange Server prerequisites on Windows Server.
+First We are going to Install Exchange Server prerequisites before you start to install Exchange Server. Ensure you have an operating system that supports the Exchange Server version that you want to install. In this article, we will look at how to install Exchange Server prerequisites on Windows Server.
 
 Install Exchange Server prerequisites
 
