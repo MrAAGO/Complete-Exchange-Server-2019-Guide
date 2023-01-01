@@ -55,6 +55,8 @@ There are several types of mail tips that can be configured in Outlook, includin
 
 Mail tips can be customized by the administrator of an Exchange server, and can be turned on or off for individual users as needed. They are designed to help users send more effective and professional emails and can be a valuable tool for improving communication in an organization.
 
+# Groups.
+
 In an Exchange server, a group is a collection of users who have been grouped together for the purpose of sharing information and resources. Groups can be used to simplify the process of sending emails and granting access to shared resources, as they allow users to send emails and access resources using a single group name rather than having to enter the names of individual users.
 
 There are several types of groups that can be created in an Exchange server, including:
