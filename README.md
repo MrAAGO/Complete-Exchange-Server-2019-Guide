@@ -19,10 +19,18 @@ Install Exchange Server prerequisites
 Now,
 
 Download and extract the Exchange Server installation files. Download the Exchange Server 2019 installation files from the Microsoft website and extract them to a local folder on the server.
+![3](https://user-images.githubusercontent.com/86381942/211726954-1876bf83-4bd3-461f-ada7-82ff0d12e769.png)
 
 Run the Exchange Server setup program. Run the Exchange Server setup program and follow the prompts to install Exchange Server.
 
-Configure Exchange Server. After installation is complete, open the Exchange Admin Center and configure Exchange Server according to your organization's requirements. This may include setting up mailboxes, creating mail flow rules, and configuring client access.
+
+
+![4](https://user-images.githubusercontent.com/86381942/211727055-b4be3745-0607-43a6-9644-f47146b2e54f.png)
+
+<h1>Configure Exchange Server. </h1>
+
+
+After installation is complete, open the Exchange Admin Center and configure Exchange Server according to your organization's requirements. This may include setting up mailboxes, creating mail flow rules, and configuring client access.
 
 The specific steps involved in installing Exchange Server 2019 may vary depending on the specific needs of your organization and the version of Windows Server that you are using. For detailed instructions and more information, you can refer to the Microsoft documentation or seek guidance from a qualified Exchange Server administrator.
 
