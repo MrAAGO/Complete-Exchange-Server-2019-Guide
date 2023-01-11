@@ -21,9 +21,10 @@ Install Exchange Server prerequisites
 
 <h4 align="center"> <a href="https://www.microsoft.com/en-us/download/details.aspx?id=34992">Step 6 Unified Communications Managed API 4.0 Runtime. </a> </h4>
 
-Now,
+<b>Now,</b>
 
-Download and extract the Exchange Server installation files. Download the Exchange Server 2019 installation files from the Microsoft website and extract them to a local folder on the server.
+<b>Download and extract the Exchange Server installation files. Download the Exchange Server 2019 installation files from the Microsoft website and extract them to a local folder on the server.</b>
+
 ![3](https://user-images.githubusercontent.com/86381942/211726954-1876bf83-4bd3-461f-ada7-82ff0d12e769.png)
 
 <h2> Run the Exchange Server setup program. Run the Exchange Server setup program and follow the prompts to install Exchange Server.</h2>
