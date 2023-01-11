@@ -12,8 +12,6 @@ Install Exchange Server prerequisites
 
 <h4 align="center"> <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework">Step 2 Install .NET Framework 4.8 (restart required).. </a> </h4>
 
-![2](https://user-images.githubusercontent.com/86381942/211729657-193eaf34-8900-4060-83fa-97a3dbea9881.png)
-
 
 <h4 align="center"> <a href="https://www.microsoft.com/en-us/download/details.aspx?id=30679">Step 3 Install Visual C++ Redistributable for Visual Studio 2012.</a> </h4>
 
