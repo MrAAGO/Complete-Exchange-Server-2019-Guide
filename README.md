@@ -21,7 +21,7 @@ Now,
 Download and extract the Exchange Server installation files. Download the Exchange Server 2019 installation files from the Microsoft website and extract them to a local folder on the server.
 ![3](https://user-images.githubusercontent.com/86381942/211726954-1876bf83-4bd3-461f-ada7-82ff0d12e769.png)
 
-Run the Exchange Server setup program. Run the Exchange Server setup program and follow the prompts to install Exchange Server.
+<h2> Run the Exchange Server setup program. Run the Exchange Server setup program and follow the prompts to install Exchange Server.</h2>
 
 
 
