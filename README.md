@@ -29,6 +29,49 @@ Download and extract the Exchange Server installation files. Download the Exchan
 
 <h1>Configure Exchange Server. </h1>
 
+<b>Select Connect to the Internet and check for the updates option to download the latest Exchange 2019 updates and install it during the setup. Click Next.</b>
+
+![5](https://user-images.githubusercontent.com/86381942/211727733-5548a3f0-96f2-4257-a31f-bc7228b8405f.png)
+
+<b>The setup will copy the Exchange setup files to the local drive.</b>
+
+
+![6](https://user-images.githubusercontent.com/86381942/211727947-c8aa71e7-0ec3-4a26-b95e-12aee579cde0.png)
+
+<b>On the Information page, click Next </b>
+
+
+![7](https://user-images.githubusercontent.com/86381942/211728022-9e3d64ff-1065-40a7-aaab-f634252aa9d1.png)
+
+<b>Accept the terms in the license agreement. Then click Next.</b>
+
+
+![8](https://user-images.githubusercontent.com/86381942/211728184-15b8bebe-61a5-41fd-a287-da609455d6e1.png)
+
+<b>Choose Use recommended settings for the deployment. Click Next.</b>
+
+
+![9](https://user-images.githubusercontent.com/86381942/211728247-a367401c-28e5-4af0-b90e-d5b143c71007.png)
+
+ <b>Server Role Selection, Choose Mailbox Role.</b>
+ ![10](https://user-images.githubusercontent.com/86381942/211728304-730353b3-3923-4885-ad36-9ac9e457d280.png)
+ 
+<b>Location where Exchange 2019 will install. We will go with the default location. Then click Next.</b>
+
+![11](https://user-images.githubusercontent.com/86381942/211728474-44f2393a-e782-4dc5-9724-0efe7ed65259.png)
+
+<b>Choose Malware Protection Settings and click Next.</b>
+
+![13](https://user-images.githubusercontent.com/86381942/211728574-2c93ebd4-18eb-4aaf-8b96-846a8c54c740.png)
+
+<b>Click on Install once Setup passed all readiness checks.</b>
+
+![14](https://user-images.githubusercontent.com/86381942/211728640-e09f376b-7d2d-41a5-9a56-f4a0c0d744e7.png)
+
+![15](https://user-images.githubusercontent.com/86381942/211728695-f2d211d7-b775-4125-886e-50f001534044.png)
+
+<b>The installation will now begin; keep in mind that, depending on the environment, the setup may take some time to complete.</b>
+![16](https://user-images.githubusercontent.com/86381942/211728822-61dbbb8c-c5d7-4cf2-aff6-0c85874790b7.png)
 
 After installation is complete, open the Exchange Admin Center and configure Exchange Server according to your organization's requirements. This may include setting up mailboxes, creating mail flow rules, and configuring client access.
 
