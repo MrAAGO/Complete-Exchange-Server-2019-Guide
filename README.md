@@ -79,7 +79,37 @@ First We are going to Install Exchange Server prerequisites before you start to 
 <b>The installation will now begin; keep in mind that, depending on the environment, the setup may take some time to complete.</b>
 ![16](https://user-images.githubusercontent.com/86381942/211728822-61dbbb8c-c5d7-4cf2-aff6-0c85874790b7.png)
 
-After installation is complete, open the Exchange Admin Center and configure Exchange Server according to your organization's requirements. This may include setting up mailboxes, creating mail flow rules, and configuring client access.
+<b>Once the setup completes the installation, on the Completion page, click Finish.</b>
+
+![17](https://user-images.githubusercontent.com/86381942/211731413-432ed0d2-97aa-4610-8521-999d21437694.png)
+
+<h1>restart the server after installing Exchange Server.</h1>
+
+<h1>Verify Exchange 2019 Installation:.</h1>
+
+<b>Open the web browser </b>
+
+<b>Access Exchange Admin Center by navigating to the URL https://localhost/ecp. Provide the user credentials and then click sign in.</b>
+
+![18](https://user-images.githubusercontent.com/86381942/211731831-1eba83b7-4fa3-430f-8dd7-74a89d10f205.png)
+
+
+
+![19](https://user-images.githubusercontent.com/86381942/211731854-7a930a0e-4791-4ad5-80c2-62cf7946fcd2.png)
+
+
+![20](https://user-images.githubusercontent.com/86381942/211731887-93c431ac-e434-45b0-9ad5-2e1c2540dc61.png)
+
+<b>Verify the Administrator user Mailbox under the recipient section.</b>
+
+![21](https://user-images.githubusercontent.com/86381942/211731923-24981d02-dbda-4d5d-b2fb-70fb7b319cc2.png)
+
+
+<h1>Our Setup is Complete <h1>
+ 
+ Click Here for More
+
+
 
 
 
