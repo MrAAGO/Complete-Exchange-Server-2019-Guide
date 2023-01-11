@@ -2,7 +2,7 @@
 
 First We are going to Install Exchange Server prerequisites before you start to install Exchange Server. Ensure you have an operating system that supports the Exchange Server version that you want to install. In this article, we will look at how to install Exchange Server prerequisites on Windows Server.
 
-Install Exchange Server prerequisites
+<b>Install Exchange Server prerequisites</b>
 
 <h4 align="center"> <a href="https://github.com/MrAAGO/Exchange-server-2019/blob/main/powerhell.ps1"> Step 1 Run PowerShell as administrator. Run the following command to install the required Windows components. </a> </h4>
 
