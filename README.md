@@ -100,7 +100,7 @@ First We are going to Install Exchange Server prerequisites before you start to 
 
 ![20](https://user-images.githubusercontent.com/86381942/211731887-93c431ac-e434-45b0-9ad5-2e1c2540dc61.png)
 
-<b>Verify the Administrator user Mailbox under the recipient section.</b>
+<b>-Verify the Administrator user Mailbox under the recipient section.</b>
 
 ![21](https://user-images.githubusercontent.com/86381942/211731923-24981d02-dbda-4d5d-b2fb-70fb7b319cc2.png)
 
