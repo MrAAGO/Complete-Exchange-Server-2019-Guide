@@ -1,0 +1,43 @@
+Import-Module ActiveDirectory
+
+# Computers (Workstations + Servers)
+$computers = (Get-ADComputer -Filter *).Count
+
+# Workstations
+$workstations = (Get-ADComputer -Filter {OperatingSystem -like "*workstation*"}).Count
+
+# Servers
+$servers = (Get-ADComputer -Filter {OperatingSystem -like "*server*"}).Count
+
+# Users
+$users = (Get-ADUser -Filter *).Count
+
+# Groups
+$groups = (Get-ADGroup -Filter *).Count
+
+# Active Directory forest name
+$forest = (Get-ADForest).Forest
+
+# Active Directory forest mode
+$forestMode = (Get-ADForest).ForestMode
+
+# Active Directory domain mode
+$domainMode = (Get-ADDomain).DomainMode
+
+# Active Directory schema version
+$schemaVersion = (Get-ADObject -SearchBase (Get-ADRootDSE).schemaNamingContext -Filter {name -eq "schema"} -Properties objectVersion).objectVersion
+
+# FSMO role owners
+$fsmo = Get-ADForest | select -ExpandProperty FSMORoleOwner
+
+# Output information
+"Computers (Workstations + Servers): $computers"
+"Workstations: $workstations"
+"Servers: $servers"
+"Users: $users"
+"Groups: $groups"
+"Active Directory forest name: $forest"
+"Active Directory forest mode: $forestMode"
+"Active Directory domain mode: $domainMode"
+"Active Directory schema version: $schemaVersion"
+"FSMO role owners: $fsmo"
