@@ -39,57 +39,57 @@ First We are going to Install Exchange Server prerequisites before you start to 
 
 ![5](https://user-images.githubusercontent.com/86381942/211727733-5548a3f0-96f2-4257-a31f-bc7228b8405f.png)
 
-<b>The setup will copy the Exchange setup files to the local drive.</b>
+<li><b>The setup will copy the Exchange setup files to the local drive.</b></li>
 
 
 ![6](https://user-images.githubusercontent.com/86381942/211727947-c8aa71e7-0ec3-4a26-b95e-12aee579cde0.png)
 
-<b>On the Information page, click Next </b>
+<li><b>On the Information page, click Next </b></li>
 
 
 ![7](https://user-images.githubusercontent.com/86381942/211728022-9e3d64ff-1065-40a7-aaab-f634252aa9d1.png)
 
-<b>Accept the terms in the license agreement. Then click Next.</b>
+<li><b>Accept the terms in the license agreement. Then click Next.</b></li>
 
 
 ![8](https://user-images.githubusercontent.com/86381942/211728184-15b8bebe-61a5-41fd-a287-da609455d6e1.png)
 
-<b>Choose Use recommended settings for the deployment. Click Next.</b>
+<li><b>Choose Use recommended settings for the deployment. Click Next.</b></li>
 
 
 ![9](https://user-images.githubusercontent.com/86381942/211728247-a367401c-28e5-4af0-b90e-d5b143c71007.png)
 
- <b>Server Role Selection, Choose Mailbox Role.</b>
+ <li><b>Server Role Selection, Choose Mailbox Role.</b></li>
  ![10](https://user-images.githubusercontent.com/86381942/211728304-730353b3-3923-4885-ad36-9ac9e457d280.png)
  
-<b>Location where Exchange 2019 will install. We will go with the default location. Then click Next.</b>
+<li><b>Location where Exchange 2019 will install. We will go with the default location. Then click Next.</b></li>
 
 ![11](https://user-images.githubusercontent.com/86381942/211728474-44f2393a-e782-4dc5-9724-0efe7ed65259.png)
 
-<b>Choose Malware Protection Settings and click Next.</b>
+<li><b>Choose Malware Protection Settings and click Next.</b></li>
 
 ![13](https://user-images.githubusercontent.com/86381942/211728574-2c93ebd4-18eb-4aaf-8b96-846a8c54c740.png)
 
-<b>Click on Install once Setup passed all readiness checks.</b>
+<li><b>Click on Install once Setup passed all readiness checks.</b></li>
 
 ![14](https://user-images.githubusercontent.com/86381942/211728640-e09f376b-7d2d-41a5-9a56-f4a0c0d744e7.png)
 
 ![15](https://user-images.githubusercontent.com/86381942/211728695-f2d211d7-b775-4125-886e-50f001534044.png)
 
-<b>The installation will now begin; keep in mind that, depending on the environment, the setup may take some time to complete.</b>
+<li><b>The installation will now begin; keep in mind that, depending on the environment, the setup may take some time to complete.</b></li>
 ![16](https://user-images.githubusercontent.com/86381942/211728822-61dbbb8c-c5d7-4cf2-aff6-0c85874790b7.png)
 
-<b>Once the setup completes the installation, on the Completion page, click Finish.</b>
+<li><b>Once the setup completes the installation, on the Completion page, click Finish.</b></li>
 
 ![17](https://user-images.githubusercontent.com/86381942/211731413-432ed0d2-97aa-4610-8521-999d21437694.png)
 
-<h1>restart the server after installing Exchange Server.</h1>
+<li><h1>restart the server after installing Exchange Server.</h1></li>
 
-<h1>Verify Exchange 2019 Installation:.</h1>
+<li><h1>Verify Exchange 2019 Installation:.</h1></li>
 
-<b>Open the web browser </b>
+<li><b>Open the web browser </b></li>
 
-<b>Access Exchange Admin Center by navigating to the URL https://localhost/ecp. Provide the user credentials and then click sign in.</b>
+<li><b>Access Exchange Admin Center by navigating to the URL https://localhost/ecp. Provide the user credentials and then click sign in.</b></li>
 
 ![18](https://user-images.githubusercontent.com/86381942/211731831-1eba83b7-4fa3-430f-8dd7-74a89d10f205.png)
 
@@ -100,7 +100,7 @@ First We are going to Install Exchange Server prerequisites before you start to 
 
 ![20](https://user-images.githubusercontent.com/86381942/211731887-93c431ac-e434-45b0-9ad5-2e1c2540dc61.png)
 
-<b>-Verify the Administrator user Mailbox under the recipient section.</b>
+<li><b>-Verify the Administrator user Mailbox under the recipient section.</b></li>
 
 ![21](https://user-images.githubusercontent.com/86381942/211731923-24981d02-dbda-4d5d-b2fb-70fb7b319cc2.png)
 
